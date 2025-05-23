@@ -17,4 +17,11 @@
 - ***-입니다***
  - ~~__들어간 -입니다.__~~
 
- - 
+   `print('github')`
+
+   ```
+   s = 'multiline python code'
+   print(s)
+   ```
+
+새로고침(https://github.com/thedeny1106/git-lesson)
