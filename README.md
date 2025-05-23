@@ -24,4 +24,4 @@
    print(s)
    ```
 
-새로고침>https://github.com/thedeny1106/git-lesson)
+새로고침<https://github.com/thedeny1106/git-lesson>
